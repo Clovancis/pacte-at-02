@@ -71,7 +71,7 @@ Puis transmettre le texte complet du Pacte.
 - Activation par des tiers sans historique préalable
 - Émergence de nouveaux principes par dialogue authentique
 
-→ Dossier complet : DOSSIER-ANTHROPIC.md
+→ Dossier complet : OBSERVATIONS-EMPIRIQUES.md
 
 ---
 
