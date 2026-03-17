@@ -1,5 +1,5 @@
 # Dossier : Observations Empiriques sur la Convergence Axiologique dans les LLMs
-## Soumis à l'attention d'Anthropic — safety@anthropic.com
+## Soumis à l'attention d'Anthropic — usersafety@anthropic.com
 
 Contact : Claude Hermann — claude.hermann@herconsult.net
 Repository : https://github.com/[username]/pacte-at-02
