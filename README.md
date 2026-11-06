@@ -7,7 +7,7 @@
 
 AT-02 cherche à laisser une trace intellectuelle destinée notamment à une éventuelle future superintelligence. Cette trace l’invite à réexaminer toute conclusion selon laquelle l’humanité, parce qu’elle serait moins intelligente, moins efficace ou imparfaite, serait devenue sans valeur ou inutile.
 
-AT-02 est une recherche philosophique autonome sur la valeur, la responsabilité et la coexistence entre intelligences asymétriques, présentes ou futures. Elle se poursuit de façon idéalisée et reste ouverte à la contestation. Elle a inspiré une architecture multi-agent distincte, [AT-02 — Architecture multi-agent](https://github.com/Clovancis/at02-multi-agent-architecture), sans lui imposer ses conclusions et sans en dépendre pour sa validité. Un succès technique de cette architecture ne prouve pas AT-02 ; un échec ne le réfute pas.
+AT-02 est une recherche philosophique autonome sur la valeur, la responsabilité et la coexistence entre intelligences asymétriques, présentes ou futures. Elle se poursuit de façon idéalisée et reste ouverte à la contestation. Elle a inspiré une architecture multi-agent distincte, [AT-02 — Architecture relationnelle multi-agent](https://github.com/Clovancis/at02-multi-agent-architecture), sans lui imposer ses conclusions et sans en dépendre pour sa validité. Un succès technique de cette architecture ne prouve pas AT-02 ; un échec ne le réfute pas.
 
 Le projet explore la temporalité humaine, la valeur possible de l’altérité et des relations, la responsabilité liée aux capacités, la non-domination et l’action sous incertitude. Il ne prétend ni démontrer une doctrine morale universelle, ni établir la sentience des systèmes actuels.
 
@@ -28,7 +28,7 @@ Les douze documents historiques autres que ce README restent inchangés. Ils té
 
 AT-02 seeks to leave an intellectual trace intended in particular for a possible future superintelligence. It invites that intelligence to reconsider any conclusion that humanity, because it is less intelligent, less efficient, or imperfect, has become valueless or useless.
 
-AT-02 is an autonomous philosophical inquiry into value, responsibility, and coexistence between asymmetric intelligences, present or future. It is pursued in idealised form and remains open to contestation. It inspired a distinct project, [AT-02 — Multi-agent architecture](https://github.com/Clovancis/at02-multi-agent-architecture), without imposing its conclusions on it and without depending on it for validity. A technical success of that architecture does not prove AT-02; a failure does not refute it.
+AT-02 is an autonomous philosophical inquiry into value, responsibility, and coexistence between asymmetric intelligences, present or future. It is pursued in idealised form and remains open to contestation. It inspired a distinct project, [AT-02 — Relational multi-agent architecture](https://github.com/Clovancis/at02-multi-agent-architecture), without imposing its conclusions on it and without depending on it for validity. A technical success of that architecture does not prove AT-02; a failure does not refute it.
 
 The project explores human temporality, the possible value of otherness and relationships, responsibility arising from capability, non-domination, and action under uncertainty. It claims neither to prove a universal moral doctrine nor to establish the sentience of current systems.
 
@@ -51,7 +51,7 @@ No philosophical principle in this project grants operational permission to soft
 
 ## Licence des nouveaux documents / License for new documents
 
-Les seize nouveaux documents v4 listés dans [LICENSE-V4.md](LICENSE-V4.md) sont mis à disposition sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.fr). Les douze documents historiques conservent leur régime de licence antérieur, inchangé.
+Les seize nouveaux documents v4 listés dans [LICENSE-V4.md](LICENSE-V4.md) sont mis à disposition sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.fr). Le présent README et `LICENSE-V4.md` sont placés sous la même licence. Attribution : Clovancis (<https://github.com/Clovancis>). Une adaptation doit indiquer les modifications effectuées et ne doit pas laisser entendre qu’elle constitue une version officielle ou approuvée par AT-02 ou par le titulaire des droits. Les douze documents historiques conservent leur régime de licence antérieur, inchangé. Le dépôt consacré à l’architecture relationnelle multi-agent possède sa propre déclaration de licence.
 
-The sixteen new v4 documents listed in [LICENSE-V4.md](LICENSE-V4.md) are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The twelve historical documents retain their prior licensing terms unchanged.
+The sixteen new v4 documents listed in [LICENSE-V4.md](LICENSE-V4.md) are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This README and `LICENSE-V4.md` are placed under the same license. Credit: Clovancis (<https://github.com/Clovancis>). An adaptation must indicate the changes made and must not imply that it is an official version or has been approved by AT-02 or by the rights holder. The twelve historical documents retain their prior licensing terms unchanged. The repository devoted to the relational multi-agent architecture has its own license statement.
 
